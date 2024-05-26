@@ -1,7 +1,8 @@
 # TADPOLE
 
 About Tadpole:
-The Tadpole dataset, often referred to in the context of the Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) challenge, is a comprehensive dataset used for developing and evaluating machine learning models to predict the progression of Alzheimer's disease. Here are some key points about the TADPOLE dataset:
+
+The Tadpole dataset, often referred to in the context of the Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) challenge, is a comprehensive dataset used for developing and evaluating machine learning models to predict the progression of Alzheimer's disease.
 
 ### Overview
 
@@ -52,17 +53,6 @@ The Tadpole dataset, often referred to in the context of the Alzheimer's Disease
 
 2. **Data Format**:
    - The data is typically provided in standardized formats, such as CSV files for clinical and biomarker data, and DICOM or NIfTI formats for imaging data.
-
-### Example Research
-
-1. **Predictive Modeling**:
-   - Studies have used various machine learning techniques, including regression models, classification models, and deep learning approaches to analyze the TADPOLE dataset and make predictions.
-
-2. **Feature Engineering**:
-   - Researchers often perform extensive feature engineering to combine different types of data and improve model performance.
-
-3. **Validation**:
-   - Models developed using the TADPOLE dataset are validated on separate test sets to ensure their generalizability and robustness.
 
 ### Conclusion
 
